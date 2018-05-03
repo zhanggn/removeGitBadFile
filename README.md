@@ -1,7 +1,9 @@
 # removeGitBadFile
 
 java -jar target\zip-0.0.1-SNAPSHOT-shaded.jar D:\Java\.m2\repository
+
 reading 7721 jar files.
+
 done........
 
 
